@@ -1,0 +1,12 @@
+com\example\repository\MemCourseRepo.class
+com\example\domain\Course.class
+com\example\Main.class
+com\example\repository\MemStudentRepo.class
+com\example\servicesz\FormService.class
+com\example\ui\FormUi.class
+com\example\file\FileStudentRepo.class
+com\example\servicesz\StudentRepository.class
+com\example\file\FileCourseRepo.class
+com\example\servicesz\CourseRepository.class
+com\example\domain\MyException.class
+com\example\domain\Student.class
