@@ -1,0 +1,4 @@
+1.  file jar กับ database อยู่ใน folder ครับ
+2. สามารถแตก file zip แล้ว run ใน main ได้เลยครับ
+3. ถ้า Run แบบ file แล้ว file จะถูกสร้างที่หน้าแรกของ dirve D อาจารย์สารมารถเปลี่ยน Path การสร้างได้ที่ FileCourseRepo ใน floder file ตรง filename ได้เลยครับ
+4. ถ้า Run แบบ database อาจารย์ต้องติดตั้ง script (databaseG-7) ก่อนนะครับ ถ้าอาจารย์จะเชื่อม database บนเครื่องอาจารย์ อาจารย์สามารถเปลี่ยน url,username,password ได้ที่ ConnectDatabase ใน floder database ได้เลยครับ สามารถเปลี่ยนได้ตรง filed
